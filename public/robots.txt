@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
 
-Sitemap: https://alaskacg.github.io/ak-exploratory/sitemap.xml
+Sitemap: https://akexploratory.com/sitemap.xml
